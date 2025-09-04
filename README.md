@@ -1,2 +1,8 @@
-# chatbot
-This project is a simple chatbot web application developed using HTML, CSS, and JavaScript with React for the front end. It allows users to interact with an automated bot via a sleek, responsive chat interface, perfect for demonstrating frontend skills and user interaction logic.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
